@@ -64,13 +64,13 @@ I like building things at the intersection of **data, language models, and real-
 > **Efficient Multi-Task Stance Detection on Social Media**
 > *IEEE Xplore · 2025*
 > DeBERTa-v3 + LoRA · 96% parameter reduction · 84.90% F1 · Outperforms GPT-4
-> [→ Read on IEEE Xplore](https://ieeexplore.ieee.org/document/11085509) · [→ Code](https://github.com/Amanletscode/research-paper)
+> [→ Read on IEEE Xplore](https://ieeexplore.ieee.org/document/11085509) · [→ PDF](https://github.com/Amanletscode/research-paper)
 
 ---
 
 ### 💼 Experience
 
-**IQVIA** · *Analyst — Pfizer Contracting & AI Innovation* · Jul 2025–Present
+**IQVIA** · *Analyst* · Jul 2025–Present
 > Healthcare data pipelines · Python automation · SQL quality checks · Internal LLM tools
 
 **Infosys Springboard** · *Full Stack Developer Intern* · Apr–Jun 2024
